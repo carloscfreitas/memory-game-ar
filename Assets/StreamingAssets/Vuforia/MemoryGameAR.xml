@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="valete_espadas" size="0.055000 0.085872" />
+    <ImageTarget name="valete_copas" size="0.055000 0.084442" />
+    <ImageTarget name="rei_espadas" size="0.055000 0.083293" />
+    <ImageTarget name="rei_copas" size="0.055000 0.083146" />
+    <ImageTarget name="dama_espadas" size="0.055000 0.083507" />
+    <ImageTarget name="dama_copas" size="0.055000 0.084079" />
+  </Tracking>
+</QCARConfig>
